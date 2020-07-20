@@ -1,6 +1,6 @@
 /* body section */
 body {
-    background-color: darkgray;
+    background-color: #a9a9a9;
 }
 /* wrapper class for main content */
 .wrapper {
@@ -17,7 +17,7 @@ header {
 header h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
-    color: white;
+    color: #ffffff;
 }
 /* header logo */
 .code-logo {
@@ -39,7 +39,7 @@ header h1 {
 nav a {
     text-align: center;
     text-decoration: none;
-    background-color: white;
+    background-color: #ffffff;
     padding: 10px;
     border-radius: 5px;
 }
@@ -98,7 +98,7 @@ section h2 {
     background-color: #5858eb;
     height: 150px;
     clear: both;
-    color: white
+    color: #ffffff
 
 }
 /* contact section */
